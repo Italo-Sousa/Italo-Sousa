@@ -3,8 +3,6 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/http_tito/)
 
 ### Tecnologia em desenvolvimento
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Italo-Sousa&langs_count=8)](https://github.com/Italo-Sousa/github-readme-stats)
-
 <div style="display: inline_block"> <br/> 
 <img aling="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
 <img aling="center" alt="Css3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
