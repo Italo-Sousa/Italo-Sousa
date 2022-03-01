@@ -2,8 +2,6 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/italo-chagas/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/http_tito/)
 
-![Italo sousa GitHub stats](https://github-readme-stats.vercel.app/api?username=italo-sousa&show_icons=true&theme=dark)
-
 ### Tecnologia em desenvolvimento
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Italo-Sousa&langs_count=8)](https://github.com/Italo-Sousa/github-readme-stats)
 
