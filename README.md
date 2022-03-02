@@ -21,5 +21,3 @@
  
 #### Entusiasta por técnologia e inovação, sempre em constate aprendizado!
  
-![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
-
